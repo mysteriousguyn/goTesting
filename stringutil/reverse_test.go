@@ -17,7 +17,7 @@ var _ = Describe("ginkgoreverse", func() {
 		})
 
 		It("Successfully reveresed", func() {
-			Expect(value).To(Equal("abey"))
+			Expect(value).To(Equal("olleh"))
 		})
 
 	})
